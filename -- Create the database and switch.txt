@@ -28,12 +28,7 @@ CREATE TABLE record4 (
 
 -- Insert sample data into the user14 table
 INSERT INTO user4 (id,f_name, l_name, email, role, phone, password) VALUES
-(2,'Hareesha', 'Yadav', 'nharees@gmail.com', 'Doctor', '1234567890', 'haree'),
-(3,'Indu', 'Sree', 'indusr9@gmail.com', 'Patient', '0987654321', 'indu'),
-(4,'Sweety', 'Priya', 'Sweety341@gmail.com', 'ADMIN', '1122334455', 'priya'),
-(5,'Sruthi', 'Sharma', 'sruthi231@gmail.com', 'Patient', '765432190', 'sruthi'),
-(6,'meghana','reddy','meghana122gmail.com','Doctor','2345678901','megh'),
-(7,'ramesh','naidu','ramesh@gmail.com','Doctor','1234567890,'naidu');
+(2,'Hareesha',;
 
 -- Insert sample data into the record2 table
 -- Assuming you are working with the correct table name record14
